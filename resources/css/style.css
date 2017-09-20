@@ -26,6 +26,7 @@ h3 {
 .bottom {
   background-color: dimgray;
   color: white;
+  text-align: left;
 }
 
 #link {
@@ -38,6 +39,11 @@ h3 {
 
 #copy {
   font-size: 11px;
+}
+
+.bottom a {
+  font-weight: bold;
+  font-size: 14px;
 }
 
 a:link, a:visited {
